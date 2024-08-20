@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassankhalid1122
-- 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Django Frmework
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Laravel Frmework
 - 💞️ I’m looking to collaborate on Friends
 - 📫 How to reach me on whatsapp 03033409424
 
